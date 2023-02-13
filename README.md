@@ -11,3 +11,11 @@
 2. 修改 `config.js`
 3. 执行 npm run sms
 4. `dist` 目录获取结果
+
+## 感谢
+
+http://lqzhgood.github.io/Shmily/guide/other/thanks.html
+
+## 捐赠
+
+点击链接 http://lqzhgood.github.io/Shmily/guide/other/donation.html 看世界上最可爱的动物
