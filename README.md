@@ -12,6 +12,13 @@
 3. 执行 npm run sms
 4. `dist` 目录获取结果
 
+
+## 注意
+
+###### type 类型
+
+`type` 类型的设置有优先级，先匹配飞信 再匹配彩信。 因为飞信也有可能有图片，详见 `smsType` 方法
+
 ## 感谢
 
 http://lqzhgood.github.io/Shmily/guide/other/thanks.html
